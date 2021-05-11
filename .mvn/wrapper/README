@@ -1,0 +1,5 @@
+git clone https://github.com/Brunapf/ProjetoB2W.git
+
+mvn clean install
+
+docker-compose up --build --force-recreate

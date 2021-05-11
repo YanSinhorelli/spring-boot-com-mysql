@@ -1,0 +1,13 @@
+br\com\projetob2w\springbootcommysql\repository\CargoCustomRepository.class
+br\com\projetob2w\springbootcommysql\repository\CargoRepository.class
+br\com\projetob2w\springbootcommysql\repository\TrilhaCustomRepository.class
+br\com\projetob2w\springbootcommysql\controller\dto\CargoRs.class
+br\com\projetob2w\springbootcommysql\model\Trilha.class
+br\com\projetob2w\springbootcommysql\controller\dto\TrilhaRq.class
+br\com\projetob2w\springbootcommysql\controller\dto\TrilhaRs.class
+br\com\projetob2w\springbootcommysql\SpringBootComMysqlApplication.class
+br\com\projetob2w\springbootcommysql\controller\CargoController.class
+br\com\projetob2w\springbootcommysql\controller\dto\CargoRq.class
+br\com\projetob2w\springbootcommysql\controller\TrilhaController.class
+br\com\projetob2w\springbootcommysql\model\Cargo.class
+br\com\projetob2w\springbootcommysql\repository\TrilhaRepository.class

@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringBootComMysqlApplication<spring-boot-com-mysql>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "br.com.rodrigorahman.springbootcommysql.SpringBootComMysqlApplication",
+            "projectName": "spring-boot-com-mysql",
+            "args": ""
+        }
+    ]
+}
